@@ -1,0 +1,13 @@
+
+{
+
+"baseUrl":"https://gallery-app.vivifyideas.com/", 
+
+"env" :{
+
+    "EXTERNAL_EMAIL": "",
+    "EXTERNAL_PASSWORD": ""
+
+}
+
+}
